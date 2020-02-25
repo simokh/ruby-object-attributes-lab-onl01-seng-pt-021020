@@ -8,13 +8,13 @@ def name
   @name
 end
 
-# def job= (perosn_job)
-#   @job= Person.new
-#   @job= "Singer"
-# end
-#
-# def job
-#   @bjob
-# end
+def job= (perosn_job)
+  @job= Person.new
+  @job= "Singer"
+end
+
+def job
+  @bjob
+end
 
 end

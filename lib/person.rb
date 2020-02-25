@@ -8,13 +8,13 @@ def name
   @name
 end
 
-def breed= (dog_breed)
-  @breed= Person.new
-  @breed= "Beagle"
-end
-
-def breed
-  @breed
-end
+# def breed= (dog_breed)
+#   @breed= Person.new
+#   @breed= "Beagle"
+# end
+#
+# def breed
+#   @breed
+# end
 
 end

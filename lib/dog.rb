@@ -8,10 +8,10 @@ def name
   @name
 end
 
-class Dog
+def breed 
   @breed
   snoopy.breed = "Beagle"
-end 
+end
 
 
 

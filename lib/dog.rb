@@ -10,8 +10,6 @@ end
 
 def breed= (dog_breed)
   @breed= Dog.new
-  @breed= "Beagle"
-
 end
 
 

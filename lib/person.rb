@@ -8,9 +8,9 @@ def name
   @name
 end
 
-# def breed= (dog_breed)
-#   @breed= Person.new
-#   @breed= "Beagle"
+# def job= (perosn_job)
+#   @job= Person.new
+#   @job= "Singer"
 # end
 #
 # def breed

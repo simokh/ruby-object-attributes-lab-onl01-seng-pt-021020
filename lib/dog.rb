@@ -9,8 +9,9 @@ def name
 end
 
 def breed= (dog_breed)
-  @breed= snoopy
-  snoopy.breed = "Beagle"
+  @breed= Dog.new
+  @breed= "Beagle"
+
 end
 
 

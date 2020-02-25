@@ -13,8 +13,8 @@ end
 #   @job= "Singer"
 # end
 #
-# def breed
-#   @breed
+# def job
+#   @bjob
 # end
 
 end

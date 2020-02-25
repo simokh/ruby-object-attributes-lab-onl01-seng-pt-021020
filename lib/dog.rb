@@ -17,7 +17,4 @@ def breed
   @breed
 end
 
-
-
-
 end

@@ -14,7 +14,7 @@ def job= (perosn_job)
 end
 
 def job
-  @bjob
+  @job
 end
 
 end

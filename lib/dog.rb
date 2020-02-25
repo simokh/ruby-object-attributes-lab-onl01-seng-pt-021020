@@ -13,6 +13,11 @@ def breed= (dog_breed)
   @breed= "Beagle"
 end
 
+def breed
+  @breed
+end
+
+
 
 
 end
